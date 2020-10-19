@@ -1,1 +1,6 @@
-[]
+- path: spirograph_results
+  name: spirograph_results
+  rows: 2
+  cols: 6
+  description: results from previous runs of the spirograph simulation
+  type: table

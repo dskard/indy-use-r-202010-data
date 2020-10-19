@@ -1,0 +1,14 @@
+path:
+- data.csv
+- data.rds
+rows: 2
+cols: 6
+columns:
+  date: POSIXct
+  n1: numeric
+  n2: numeric
+  n3: numeric
+  x: list
+  'y': list
+description: results from previous runs of the spirograph simulation
+type: table
